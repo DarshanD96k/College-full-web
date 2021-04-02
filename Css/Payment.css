@@ -1,0 +1,12 @@
+*{margin: o ;
+    padding: 0%;
+
+}
+a.pay{
+    color:rgb(9, 9, 255);
+    padding: 2px 40px;
+    border-radius: 25px;
+    font-size: 30px;
+    font-weight: 800;
+    background: linear-gradient(silver 100%, black 30%);
+}

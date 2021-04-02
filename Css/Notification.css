@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin:0px;
+  /*  margin-bottom: 20px;
+*/
+}
+.col-1{ 
+    text-decoration: none;
+    justify-content: center;
+    margin: 10%;
+    font-size: 210%;
+    
+}
+.imp{
+  background-color: blanchedalmond;
+  padding: 34px;
+  margin: 100px;
+  border-radius: 15px;
+  border-color: blueviolet;
+}
+.na{
+  color: rgb(68, 221, 21);
+}
+.implinks{
+  text-decoration: none;
+}

@@ -1,0 +1,21 @@
+*{padding:0px;
+  margin:auto;
+
+}
+.infocon{
+    font-size:65%;
+    background-color: black;
+    justify-content: center;
+    padding: 60px 20px;
+    margin: 10%;
+    border-radius: 50px;
+    border-block-end-color: red;
+    border-block-end-width: 8px;
+    border-block-end-style: groove;
+    border-block-start-color: blue;
+    border-block-start-width: 8px;
+    border-block-start-style: groove;
+}
+.infohead{
+justify-content: center;
+}

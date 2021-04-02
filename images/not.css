@@ -1,0 +1,12 @@
+*{
+padding: auto;
+}
+n{
+    background: linear-gradient(black 100%, gold 30%);
+    background-size: 200px;
+    
+}
+.m{
+color:red;
+font-size: 35px;
+background-color: blueviolet;}

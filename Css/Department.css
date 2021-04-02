@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin:0px;
+  /*  margin-bottom: 20px;
+*/
+}
+p{  text-align: center;
+    justify-self: center;
+    margin-top:40px;
+    color:green;
+    font-weight: 1000;
+    
+}
+.special{
+    text-decoration: none;
+}
+dd{
+    font-size: 30px;
+    margin: 10%;
+}
+fieldset{
+    color: greenyellow;
+    border-block-color: green;
+}
+form{
+    font-size: 30px;
+    margin-left: 10px;
+}
+.depcomment{
+    border-block-color: blue;
+    
+    margin-left: 10px;
+
+}
+.deppay{
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: yellow;
+}
+.deppay2{
+    font-size: 15px;
+    
+}
+.imgbord{
+    border-block-end-style: groove;
+    
+    border-block-END-width: 10PX;
+    border-block-end-color: chocolate;
+    border-block-start-color: red;
+    border-block-start-style: groove;
+    border-block-start-width: 10PX;
+}
+.borderdep{
+    border-block-color: blue;
+    border-block-end-style: groove;
+    border-block-end-width: 10px;
+    border-block-start-width:10px;
+    border-block-start-style: groove;
+}
+.depan{
+    text-decoration: none;  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+}
+button{
+    background-color: blue;
+}
