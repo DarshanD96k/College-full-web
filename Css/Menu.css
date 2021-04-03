@@ -60,7 +60,6 @@ html,body{
 .alltabs{
     background-color: rgb(27, 25, 16);
     height: 25%;
-    width: 100%;
     display: flex;
     justify-content: center;
 }
@@ -87,7 +86,6 @@ html,body{
   .alltabs{
     background-color: rgb(27, 25, 16);
     height: 25%;
-    width: 150%;
     display: flex;
     justify-content: center;
 }
