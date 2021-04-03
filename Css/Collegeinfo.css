@@ -1,5 +1,5 @@
 *{padding:0px;
-  margin:auto;
+  margin:0px;
 
 }
 .infocon{
@@ -10,10 +10,10 @@
     margin: 10%;
     border-radius: 50px;
     border-block-end-color: red;
-    border-block-end-width: 8px;
+    border-block-end-width: 5px;
     border-block-end-style: groove;
     border-block-start-color: blue;
-    border-block-start-width: 8px;
+    border-block-start-width: 5px;
     border-block-start-style: groove;
 }
 .infohead{

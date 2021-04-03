@@ -5,12 +5,15 @@
 
 }
 .headi1{
-    background:linear-gradient(139deg,red 05%, blue 60%,orange 65%, gold 0%);
+    background:linear-gradient(139deg,red 15%,  gold 0%);
     background-size: 120%;
     
     font-size: 25px;
+    padding: 1%;
    
-    justify-items: center;
+    
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 .headi2{
@@ -162,8 +165,8 @@ a:hover{
     font-size: 20px;
 }
 .imgcol51{
-    height: 20%;
-    width:10%;
+    height: 15%;
+    width:7%;
     border-radius: 51%;
     
 

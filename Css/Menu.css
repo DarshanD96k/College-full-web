@@ -35,15 +35,71 @@ html,body{
 
 .tab{
     color: rgb(248, 116, 8);
-    background-color: black;
+    margin: auto;
+    font-weight: bolder;
+    
+   
+
     text-decoration: none;
-    padding-right: 3%;
-    padding-left: 3%;
-    border-radius: 25%;
-    font-size: 70%;
+    font-size: 120%;
 }
 .tab:hover{
     
     background-color:blue;
 
 }
+.imgcol11{
+    
+    height: 7%;
+    width:5%;
+    border-radius: 51%;
+    
+
+
+}
+.alltabs{
+    background-color: rgb(27, 25, 16);
+    height: 25%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.headi1{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+
+ 
+/*----------------------------------------------------------*/
+
+@media screen and (max-width:1000px)
+  {
+  
+ *{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+  }
+  .alltabs{
+    background-color: rgb(27, 25, 16);
+    height: 25%;
+    width: 150%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.tab{
+    color: rgb(248, 116, 8);
+    margin: auto;
+    font-weight: bolder;
+    
+   
+
+    text-decoration: none;
+    font-size: 5px;
+}}

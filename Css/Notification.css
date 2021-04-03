@@ -4,14 +4,14 @@
   /*  margin-bottom: 20px;
 */
 }
-.col-1{ 
+.col-{ 
     text-decoration: none;
     justify-content: center;
     margin: 10%;
     font-size: 210%;
     
 }
-.imp{
+.impn{
   background-color: blanchedalmond;
   padding: 34px;
   margin: 100px;
@@ -21,6 +21,7 @@
 .na{
   color: rgb(68, 221, 21);
 }
-.implinks{
+.implinksn{
   text-decoration: none;
+  color: rgb(247, 0, 255);
 }
