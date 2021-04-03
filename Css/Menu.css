@@ -41,7 +41,6 @@ html,body{
    
 
     text-decoration: none;
-    font-size: 120%;
 }
 .tab:hover{
     
@@ -59,7 +58,6 @@ html,body{
 }
 .alltabs{
     background-color: rgb(27, 25, 16);
-    height: 25%;
     display: flex;
     justify-content: center;
 }
@@ -85,7 +83,6 @@ html,body{
   }
   .alltabs{
     background-color: rgb(27, 25, 16);
-    height: 25%;
     display: flex;
     justify-content: center;
 }
@@ -99,5 +96,4 @@ html,body{
    
 
     text-decoration: none;
-    font-size: 5px;
 }}
